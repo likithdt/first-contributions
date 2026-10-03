@@ -74,6 +74,7 @@
 new change
 - [AymanGosh] (https://github.com/AymanGosh)
 - [ArcaneAunyanka] (https://github.com/ArcaneAunyanka)
+- [LikithDT] (https://github.com/likithdt)
 - [Ahmad Naeem](https://github.com/ahm5dnaeem)
 - [Trupti Khot](https://github.com/tk1981215)
 - [Aditi Kadukar](https://github.com/Aditi-Kadukar) - My first contribution!
